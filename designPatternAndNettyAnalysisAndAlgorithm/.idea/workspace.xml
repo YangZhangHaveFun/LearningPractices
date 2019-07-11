@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dd83149-0d1e-44fd-ba72-5d4114c9f5ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPatternAndNettyAnalysisAndAlgorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nettyAnalysis/simpleServer/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nettyAnalysis/simpleServer/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nettyAnalysis/simpleServer/ServerBoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nettyAnalysis/simpleServer/ServerBoot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -178,16 +172,15 @@
       <workItem from="1562748995869" duration="667000" />
       <workItem from="1562752871470" duration="113000" />
       <workItem from="1562753773151" duration="1643000" />
-      <workItem from="1562760554827" duration="2696000" />
+      <workItem from="1562760554827" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17846000" />
+    <option name="totallyTimeSpent" value="18498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27148998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
