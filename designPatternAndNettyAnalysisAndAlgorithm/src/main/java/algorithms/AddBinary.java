@@ -1,10 +1,13 @@
 package algorithms;
 
+import lombok.extern.slf4j.Slf4j;
+
 import java.math.BigInteger;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 
+@Slf4j
 public class AddBinary {
 //    Example 1:
 //
@@ -90,6 +93,6 @@ public class AddBinary {
         String a_1 = "100";
         String b_1 = "110010";
 
-        System.out.println(addBinary(a_1, b_1));
+        log.info("ANSWER: {}",addBinary(a_1, b_1));
     }
 }
