@@ -2,11 +2,21 @@ package algorithms;
 
 public class ReverseString {
     public void reverseString(char[] s) {
-        if (s.length == 0 || s.length == 1) {
-            System.out.println(s);
-        }
+        int start = 0;
+        int end = s.length-1;
 
-        int currentIndex = 0;
-        
+        while(start < end) {
+            char temp;
+            temp = s[start];
+            s[start] = s[end];
+            s[end] = temp;
+
+            start ++;
+            end --;
+        }
+    }
+
+    public static void main(String[] args) {
+
     }
 }
